@@ -29,10 +29,10 @@
 
 | Project Name | One-line Description | Link |
 | :--- | :--- | :--- |
-| **S&OP Dashboard & Demand Forecast** | Interactive S&OP dashboard and automated forecasting model for 30 product SKUs. | https://github.com/Scharles-source/excel-demand-planning-forecast |
+| **S&OP Dashboard & Demand Forecast** | Interactive S&OP dashboard and automated forecasting model for 30 product SKUs. | [Google Sheets Project](https://docs.google.com/spreadsheets/d/18wqiSXQu-ftB_fGOB5pRZRgFInY9jW53HKWNKTTCslo/edit?usp=sharing) |
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smith-c-897b0a70)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
