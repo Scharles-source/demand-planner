@@ -33,6 +33,12 @@
 
 ---
 
+### Screenshots & Preview
+
+![Dashboard Overview](Screenshot%202026-07-22%20210207.png)
+![Demand Forecast Analytics](Screenshot%202026-07-22%20210247.png)
+![KPI Tracker](Screenshot%202026-07-22%20210711.png)
+
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
